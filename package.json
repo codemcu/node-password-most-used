@@ -1,0 +1,16 @@
+{
+  "name": "node-password-most-used",
+  "version": "1.0.0",
+  "description": "function to search password",
+  "repository": "https://github.com/codemcu/node-password-most-used.git",
+  "author": "Mauricio Correa <frontend.mcu@gmail.com>",
+  "main": "password_checker.js",
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemcu/node-password-most-used/issues"
+  },
+  "dependencies": {
+    "line-reader": "0.4.0"
+  }
+}
